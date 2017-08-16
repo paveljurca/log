@@ -1,0 +1,34 @@
+=encoding UTF-8
+
+=head1 (b)log
+
+
+— NO javascript
+
+=cut
+
+=head2 TOOLBOX
+
+=over
+
+=item *
+YAML
+
+=item *
+JSON data
+
+=item *
+CSS
+
+=item *
+post preview
+
+=item *
+Markdown
+
+=item *
+build timestamp
+
+=back
+
+=cut
